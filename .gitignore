@@ -1,4 +1,25 @@
-*.png
-*.jpg
-*.mp4
-*.avi
+# Author: mohsin@hazen.ai
+# References for the contents of this file:
+#     Joakim Elofsson's answer on StackOverflow to question at the following
+#     link (https://stackoverflow.com/questions/987142/)
+# Joakim Elofsson's StackOverflow profile link:
+#     Joakim Elofsson (https://stackoverflow.com/users/109869/joakim-elofsson)
+
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+!docs/*.md
+
+# ...even if they are in subdirectories
+!*/
+
+# if the files to be tracked are in subdirectories
+# !*/include/*.h
+!*/Textures/*.png
+!*/Textures/*.jpg
+!*/hdri/*.hdr
+!*/hdri/*.jpg
+!*/hdri/*.png
