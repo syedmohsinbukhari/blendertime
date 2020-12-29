@@ -21,6 +21,7 @@
 !*/*.blend
 !*/*.blend1
 !*/*.txt
+!*/*.md
 !*/Textures/*.png
 !*/Textures/*.jpg
 !*/hdri/*.hdr
