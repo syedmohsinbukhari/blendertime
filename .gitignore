@@ -18,6 +18,9 @@
 
 # if the files to be tracked are in subdirectories
 # !*/include/*.h
+!*/*.blend
+!*/*.blend1
+!*/*.txt
 !*/Textures/*.png
 !*/Textures/*.jpg
 !*/hdri/*.hdr
