@@ -1,6 +1,6 @@
 # Dice
 
-The dice has translucent material and it is rendered in Eevee has translucent material and it is rendered in Eevee. It was not straightforward to apply translucency in Eevee.
+The dice has translucent material and it is rendered in Eevee. It was not straightforward to apply translucency in Eevee.
 
 ## Render Results
 ![Imgur1](https://i.imgur.com/kr5BsHc.png)
