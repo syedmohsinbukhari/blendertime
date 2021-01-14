@@ -4,7 +4,7 @@ Inspired by creativity
 
 ## Renders
 
-![YouTube Video Link](https://youtu.be/y2SxnIboiYk)
+YouTube Video Link: https://youtu.be/y2SxnIboiYk
 
 ![Imgur](https://i.imgur.com/a3ZEg8U.jpg)
 
