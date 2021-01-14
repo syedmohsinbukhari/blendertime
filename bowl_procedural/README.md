@@ -1,6 +1,6 @@
-# Cup Generated Procedurally
+# A Bowl Generated Procedurally
 
-Inspired by Harry Potter movies by Warner Bros.
+Inspired by creativity
 
 ## References
 
